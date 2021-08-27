@@ -48,6 +48,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaio-apeles-13781b110/)](https://www.linkedin.com/in/kaio-apeles-13781b110/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaioapeles@gmail.com)](mailto:kaioapeles@gmail.com)
+[![Linkedin: KaioApeles](https://img.shields.io/badge/-KaioNunes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaio-apeles-13781b110/)](https://www.linkedin.com/in/kaio-apeles-13781b110/)
+[![Gmail Badge](https://img.shields.io/badge/-kaioapeles@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaioapeles@gmail.com)](mailto:kaioapeles@gmail.com)
 [![GitHub Kaio Nunes]( https://img.shields.io/github/followers/KaioApeles?label=follow&style=social)](https://github.com/KaioApeles)
