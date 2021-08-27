@@ -4,7 +4,7 @@
 <h3> 👨 &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Formado **Gestão em tecnologia na informação** no <a href="https://estacio.br/">Estacio</a>.
+- 🎓 &nbsp; Formado **Gestão em tecnologia da informação** no <a href="https://estacio.br/">Estacio</a>.
 - 💼 &nbsp; Trabalhando como **BACK END DEVELOPER** na <a href="https://www.linkedin.com/company/capitual/mycompany">Capitual</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
