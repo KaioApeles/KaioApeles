@@ -19,8 +19,8 @@
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=mysql)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=mysql)
+  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 
 **Utilidades**
 
