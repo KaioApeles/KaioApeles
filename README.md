@@ -50,4 +50,4 @@
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaio-apeles-13781b110/)](https://www.linkedin.com/in/kaio-apeles-13781b110/)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kaioapeles@gmail.com)](mailto:kaioapeles@gmail.com)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/KaioApeles?label=follow&style=social)](https://github.com/KaioApeles)
+[![GitHub Kaio Nunes]( https://img.shields.io/github/followers/KaioApeles?label=follow&style=social)](https://github.com/KaioApeles)
